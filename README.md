@@ -1,4 +1,4 @@
-📱 Mobile Sales Dashboard — Power BI
+📱 Mobile Sales Dashboard — Power BI           [📥 Download Power BI Template (.pbit)](PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbit)
 
 Interactive Sales Analytics | Multi-Brand · City-wise · Payment Method Analysis | Power BI
 
@@ -64,6 +64,10 @@ Developer: Badal Kamble
 Education: BCA — Dayanand College of Commerce, Latur (SRTMU)
 CGPA: 8.56
 Email: kamblebadal25@gmail.com
+
+[📥 Download Power BI Template (.pbit)](PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbit)
+
+
 
 
 
