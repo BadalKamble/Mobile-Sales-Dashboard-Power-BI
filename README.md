@@ -68,6 +68,11 @@ Email: kamblebadal25@gmail.com
 [📥 Download Power BI Template (.pbit)](PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbit)
 
 
+![Mobile Sales Dashboard](Mobile%20Sales%20Dashbord.png)
+
+[📥 Download Power BI Template (.pbit)](PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbit)
+
+
 
 
 
